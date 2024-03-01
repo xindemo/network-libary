@@ -1,4 +1,3 @@
-//# network-libary
 # 基于Reactor模式的多线程网络库
 muduo网络库是一个高性能的基于Reactor模式的多线程网络库，采用one loop per thread + thread pool
 的架构实现，能够帮助开发者轻松实现高并发、低延迟的网络应用程序。
